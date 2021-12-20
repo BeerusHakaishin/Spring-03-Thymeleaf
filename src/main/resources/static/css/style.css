@@ -1,0 +1,8 @@
+header {
+    padding: 10px;
+    color: grey;
+}
+
+fieldset {
+    display: inline-block;
+}
